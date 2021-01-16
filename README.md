@@ -1,6 +1,6 @@
 # Generate Random Password
 
-[![Preview]()]()
+[![Preview](snap.png)](https://github.com/niladrihere/Bash-Password-Generator)
 
 GenPassX  - Beta 0.1a 
 
